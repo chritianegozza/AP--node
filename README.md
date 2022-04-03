@@ -5,7 +5,8 @@ Solicitação com sucesso - 200 ok
 
 Solicitação com sucesso - erro 404
 
-![image](https://user-images.githubusercontent.com/72118415/161407495-c73a2a0b-cb0c-4657-89f4-ca2c7166e93c.png)
+![image](https://user-images.githubusercontent.com/72118415/161407519-aac22d3c-cee9-4b9f-8873-c0de4f38c5ce.png)
+
 
 
 **********************************************************************************************************
